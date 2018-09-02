@@ -100,6 +100,8 @@ module.exports = class Meow extends Base {
                 "https://cdn.discordapp.com/attachments/236949238032891904/423892866486501376/image.jpg from **Majik**",
                 "https://cdn.discordapp.com/attachments/236949238032891904/423892978508234772/image.jpg from **Majik**",
                 "https://cdn.discordapp.com/attachments/236949238032891904/423893058141028354/image.jpg from **Majik**",
+                "https://cdn.discordapp.com/attachments/239551387627814922/485929039421374484/20180820_220917.jpg from **ArtificialLegacy**",
+                "https://cdn.discordapp.com/attachments/239551387627814922/485929084895887361/20180814_221116.jpg from **ArtificialLegacy**",
              // Dubzini
                 "https://cdn.discordapp.com/attachments/423321409918599169/423872111724068864/IMG_20180315_165615.jpg"
             ]
